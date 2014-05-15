@@ -8,8 +8,6 @@ class: privacy
 
 # About the Questions We’re Asking
 
-On these screens we ask a series of questions. The results help us deliver material that’s matched to the information you provide. This makes it easier for you to get answers to your questions about the Health Insurance Marketplace and health coverage in general. Completing the process will help you prepare to apply for insurance starting October 1, 2013. 
-Answering these questions is optional. If you don’t answer these questions, you will still have full access to all content and features appearing on HealthCare.gov.
 
 ## What we ask
 
